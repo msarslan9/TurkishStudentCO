@@ -1,2 +1,0 @@
-# TurkishStudentCO
-ödev
